@@ -1,0 +1,38 @@
+---
+title: "Midterm"
+author: "Lihan"
+date: "2021/11/14"
+output: html_document
+---
+# Dynamic of Soil moisture in Fushan headwater catchment 
+
+## 1.Introduction: 
+Spatial and temporal variations in soil moisture are key characteristics for understanding hydrological processes on a hillslope scale (Kim,2012). Most of the research focus on the spatial variation and the influence of local characteristics (Penna et al.,2013). However,temporal variation in soil moisture,which will show the  water conservation and regulation ability,is still not clear in the headwater catchment.With the impact of climate change and the increase of extreme rain events,it's important to understand the dynamic of soil moisture in different weather condition. This research will use the monitor data of soil moisture during 2014, to show the temporal variation of soil moisture, and analyze the relationship between the increase water content and the characteristics of rain events.
+
+## 2.Material and method: 
+2-1. study place: Fushan headwater catchment
+
+```{r }
+#I will show the map here
+```
+
+2-2. tools: Easy AG 50 soil moisture sensor
+
+2-3. rain events seperates: No rain for 12 consecutive hours then the rain events began after the rain gage recorded the rain intensity bigger than 0.2 mm / 10 minutes.
+
+## 3.Results:
+3-1. temporal dynamic of soil moisture
+```{r }
+#I will show the line graph of soil moisture and rain here  
+```
+
+3-2. Dynamic difference between different weather
+```{r }
+#I will show the line graph of different rain events here to see the reaction of soil moisture
+```
+
+3-3. Effects of Characteristic of rain events to the water content
+```{r }
+#I will show the Scatter plots of different rain events' characteristic here to see the relationship between rain,duration and intensity with the increase of water content.
+```
+
