@@ -16,7 +16,7 @@ output: "html_document"
 
 ### 2.Material and method: 
 
-### 2-1. Study place
+### 2-1 Study place
 
 #### The research site is located in the natural forest catchment area in Fushan mountain (Fig 1). In addition, the site is under the jurisdiction of the Fushan Research Center. The size of the site is 0.16ha, which is circled by black dots (Fig 2). The average annual temperature is 18.5 ℃, and it rains all year round, with an average annual rainfall about 4125 mm. In 2014, we set 10 automatic moisture meters EasyAG 50(sentek) in the sample area (Fig2,blue points) to monitor the water content in the shallow soil layer continuously. The depth we monitored is 50 cm.
 
